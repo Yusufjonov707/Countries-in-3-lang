@@ -1,5 +1,5 @@
 # Countries-in-3-lang
-Country names and codes in uzbek, english and in russian. 
+Country names and codes in uzbek, english and russian as  json format
 <p> In this format</p>
 <code> 
 [
